@@ -106,6 +106,10 @@ Hey, I’m Kamyar — a backend engineer who enjoys building clean, pragmatic sy
   <img src="https://images.credly.com/size/96x96/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="96" height="96">
 </a>
 
+<a href="https://www.credly.com/badges/0071aa59-b2e9-4be9-af39-35a764600dfe/public_url">
+  <img src="https://images.credly.com/size/96x96/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="96" height="96">
+</a>
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Find Me Elsewhere 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kmirzavaziri@gmail.com)
