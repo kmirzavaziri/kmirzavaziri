@@ -103,7 +103,6 @@ Hey, I’m Kamyar — a backend engineer who enjoys building clean, pragmatic sy
 [![Kamyar StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5774661&layout=compact)](https://stackoverflow.com/users/5774661/kamyar-mirzavaziri)
 
 <a href="https://www.credly.com/badges/0b588c13-8336-44a8-9de7-9c75edb55505/public_url"><img src="https://images.credly.com/size/96x96/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="96" height="96"></a>
-
 <a href="https://www.credly.com/badges/0071aa59-b2e9-4be9-af39-35a764600dfe/public_url"><img src="https://images.credly.com/size/96x96/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="96" height="96"></a>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Find Me Elsewhere 
